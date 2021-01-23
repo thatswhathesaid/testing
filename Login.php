@@ -2,11 +2,8 @@
 <head>
     <title> Welcom To my Browse </title>
     <link rel = "stylesheet" type = "text/css" href = "style.css">
-    
-
 </head>
 <body>
-    <!-- <div style="background-image: url('login.jpg');"></div> -->
     <div id="loginbox">
         <form action = "login_code.php" method = "post">
             <p>
