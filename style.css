@@ -3,7 +3,12 @@ Login
 */
 
 body{
-    background-image: url("login.jpg"); 
+    margin: 0;
+    padding: 0;
+    background-image: url("images/login.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;  
 }
 #frm{
     border: solid gray 1pc;
