@@ -10,7 +10,7 @@ body{
     background-position: center;
     font-family: sans-serif;  
 }
-#frm{
+#loginbox{
     border: solid gray 1pc;
     width: 20%;
     border-radius: 5px;

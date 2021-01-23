@@ -6,8 +6,8 @@
 
 </head>
 <body>
-    <div style="background-image: url('login.jpg');"></div>
-    <div id="frm">
+    <!-- <div style="background-image: url('login.jpg');"></div> -->
+    <div id="loginbox">
         <form action = "login_code.php" method = "post">
             <p>
                 <label>Username</label>
